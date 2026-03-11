@@ -16,7 +16,7 @@
 
 <br/>
 
-![Demo Banner](https://via.placeholder.com/800x120/1e1e2e/cdd6f4?text=Student+Management+System+%7C+Python+OOP+Console+App)
+![Demo Banner](https://drive.google.com/file/d/1fGnyPbkBOPxv2gVtF3RKSQw0fCHjfY-B/view?usp=sharing)
 
 </div>
 
